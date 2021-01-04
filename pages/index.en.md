@@ -1,6 +1,0 @@
-# THIRM
-
-Hello
-
-
-
