@@ -9,7 +9,7 @@ jobs:
      with:
       persist-credentials: false
 
-   - name: Install 
+   - name: Install
      run: |
       sudo apt-get update -y 
       sudo apt install git -y
@@ -19,8 +19,9 @@ jobs:
      run: |
       yarn
       yarn build
-      
-   - name: Deploy 
+      yarn generate
+
+   - name: Deploy
      uses: JamesIves/github-pages-deploy-action@3.7.1
      with:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
