@@ -21,13 +21,12 @@ THIRM Token Holders create proposals and vote on every decision the PROTOCOL imp
 
 Etherscan : https://etherscan.io/token/0xb526fd41360c98929006f3bdcbd16d55de4b0069
 
-## Trade 
+## Trade
 
 Uniswap : https://uniswap.info/token/0xb526fd41360c98929006f3bdcbd16d55de4b0069
 
-## Price 
+## Price
 
-Coin Market Cap : https://coinmarketcap.com/currencies/thirm-protocol
+CoinMarketCap : https://coinmarketcap.com/currencies/thirm-protocol
 
 Coingecko : https://www.coingecko.com/en/coins/thirm-protocol
-
