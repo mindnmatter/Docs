@@ -16,3 +16,17 @@ Proponents of systems that use governance tokens believe that they allow for use
 ## Rights
 
 THIRM Token Holders create proposals and vote on every decision the PROTOCOL implements. By voting, we ensure that we go in the direction agreed on by the majority of holders.
+
+## Smart Contract
+
+Etherscan : https://etherscan.io/token/0xb526fd41360c98929006f3bdcbd16d55de4b0069
+
+## Trade
+
+Uniswap : https://uniswap.info/token/0xb526fd41360c98929006f3bdcbd16d55de4b0069
+
+## Price
+
+CoinMarketCap : https://coinmarketcap.com/currencies/thirm-protocol
+
+Coingecko : https://www.coingecko.com/en/coins/thirm-protocol
