@@ -7,6 +7,6 @@ category: ''
 
 | Feature | WBTC | renVM | THIRM VM |
 |---|---|---|---|
-|   |   |   |   |
+| Deposit  | NO |  YES |  YES |
 |   |   |   |   |
 |   |   |   |   |
