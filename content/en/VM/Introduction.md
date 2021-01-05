@@ -2,7 +2,7 @@
 title: Introduction
 description: ''
 position: 1
-category: 'vm'
+category: 'THIRM VM'
 ---
 
 Thirm VM is the backbone of the Thirm ecosystem. It is a powerful engine that enables cross-chain access to your cryptocurrencies. THIRM VM is a permissionless, abstract all-in-one AI-Driven Machine linked to multiple blockchains, providing a bridge that allows smart contracts to request data and process commands.
