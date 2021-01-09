@@ -5,4 +5,22 @@ position: 3
 category: 'T TOKENS'
 ---
 
-Deposit Guide
+## Deposit
+
+Open DAPP, select NANO
+
+Click Approve Transaction
+
+Deposit 
+
+
+## Withdraw
+
+Approve Protocol Contracts (One Time)
+
+Enter Withdrawal Address
+
+Enter Withdrawal Amount
+
+Click Withdraw 
+
