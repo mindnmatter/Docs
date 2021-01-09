@@ -1,7 +1,7 @@
 ---
 title: List
 description: 'List of T Tokens supported by THIRM PROTOCOL'
-position: 2
+position: 3
 category: 'T TOKENS'
 ---
 
