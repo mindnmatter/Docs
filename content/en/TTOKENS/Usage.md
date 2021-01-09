@@ -23,4 +23,3 @@ Enter Withdrawal Address
 Enter Withdrawal Amount
 
 Click Withdraw 
-
