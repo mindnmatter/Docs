@@ -7,11 +7,14 @@ category: 'T TOKENS'
 
 ## Deposit
 
-Open DAPP, select NANO
+Before you can get started woth deposits, you need to get your address mapped by signature. Another easy way to do that will be to leave a email to developer@thirm.com letting them you need address mapped manually.
+ 
 
-Click Approve Transaction
+Enter your mapped address
 
-Deposit 
+Deposit on QR code shown
+
+Thats it, protocol will send you money in next block.
 
 
 ## Withdraw
