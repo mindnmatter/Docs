@@ -1,6 +1,6 @@
 ---
-title: List
-description: 'List of T Tokens supported by THIRM PROTOCOL'
+title: Supported Blockchains
+description: 'List of Blockchains supported by THIRM PROTOCOL'
 position: 3
 category: 'T TOKENS'
 ---
