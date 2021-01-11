@@ -1,5 +1,5 @@
 ---
-title: Supported Blockchains
+title: List
 description: 'List of Blockchains supported by THIRM PROTOCOL'
 position: 3
 category: 'T TOKENS'
