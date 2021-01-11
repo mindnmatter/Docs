@@ -1,7 +1,7 @@
 ---
 title: Governance
 description: 'THIRM Token is a governance/ownership tracking smart contract written on the Ethereum blockchain.'
-position: 1
+position: 2
 category: 'THIRM TOKEN'
 ---
 
