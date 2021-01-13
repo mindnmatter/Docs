@@ -7,7 +7,7 @@ category: 'T TOKENS'
 
 ## Deposit
 
-Before you can get started woth deposits, you need to get your address mapped by signature. Another easy way to do that will be to leave a email to developer@thirm.com letting them you need address mapped manually.
+Before you can get started with deposits, you need to get your address mapped by signature. Another easy way to do that will be to leave a email to developer@thirm.com letting them know you need address mapped manually.
  
 
 Enter your mapped address
